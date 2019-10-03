@@ -127,7 +127,7 @@ test {
 
 //Chrome + IE + Firefox excecute
 10.times { counter -> task "C_00$counter"(type: Test, dependsOn: testClasses){ include "**/*Browsers_Chrome_00$counter"+"*" }}
-33.times { counter -> task "C_0$counter"(type: Test, dependsOn: testClasses){ include "**/*Browsers_Chrome_00$counter"+"*" }}
+33.times { counter -> task "C_0$counter"(type: Test, dependsOn: testClasses){ include "**/*Browsers_Chrome_0$counter"+"*" }} 
 10.times { counter -> task "FF_00$counter"(type: Test, dependsOn: testClasses){ include "**/*Browsers_Firefox_00$counter"+"*" }}
 33.times { counter -> task "FF_0$counter"(type: Test, dependsOn: testClasses){ include "**/*Browsers_Firefox_0$counter"+"*" }}
 10.times { counter -> task "IE_00$counter"(type: Test, dependsOn: testClasses){ include "**/*Browser_00$counter"+"_IE*"}}
