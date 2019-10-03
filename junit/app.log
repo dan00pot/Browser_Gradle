@@ -1,0 +1,168 @@
+2019-10-02 16:12:08,139 INFO Browsers_Chrome_001 [main] beforetest Browsers_Chrome_001 starting...
+
+2019-10-02 16:12:08,151 INFO Driver Managerment [main] createWebDriverChrome - starting...
+
+2019-10-02 16:12:34,503 INFO Driver Managerment [main] createWebDriverChrome - completed...
+
+2019-10-02 16:12:34,504 INFO Browsers_Chrome_001 [main] beforetest Browsers_Chrome_001 completed...
+
+2019-10-02 16:12:34,504 INFO Browsers_Chrome_001 [main] Browsers_Chrome_001 - starting...
+
+2019-10-02 16:12:37,723 INFO Selenium Keywords [main] Found element: [[[ChromeDriver: chrome on XP (ef28f683e606142955b1b65470558eb4)] -> xpath: //input[@id='nameField']]]
+2019-10-02 16:12:39,518 INFO Selenium Keywords [main] Found element: [[[ChromeDriver: chrome on XP (ef28f683e606142955b1b65470558eb4)] -> xpath: //input[@id='passwordField']]]
+2019-10-02 16:12:39,845 INFO Selenium Keywords [main] Found element: [[[ChromeDriver: chrome on XP (ef28f683e606142955b1b65470558eb4)] -> xpath: //input[@name='logOnButton']]]
+2019-10-02 16:12:40,224 INFO Browsers_Chrome_001 [main] Browsers_Chrome_001 - completed...
+
+2019-10-02 16:12:40,225 INFO Browsers_Chrome_001 [main] tearDown starting...
+
+2019-10-02 16:12:41,623 INFO Browsers_Chrome_001 [main] tearDown completed...
+
+2019-10-02 16:13:05,886 INFO Browsers_Chrome_001 [main] beforetest Browsers_Chrome_001 starting...
+
+2019-10-02 16:13:05,890 INFO Driver Managerment [main] createWebDriverChrome - starting...
+
+2019-10-02 16:13:22,642 INFO Browsers_Chrome_001 [main] beforetest Browsers_Chrome_001 starting...
+
+2019-10-02 16:13:22,648 INFO Driver Managerment [main] createWebDriverChrome - starting...
+
+2019-10-02 16:13:38,486 INFO Driver Managerment [main] createWebDriverChrome - completed...
+
+2019-10-02 16:13:38,486 INFO Browsers_Chrome_001 [main] beforetest Browsers_Chrome_001 completed...
+
+2019-10-02 16:13:38,486 INFO Browsers_Chrome_001 [main] Browsers_Chrome_001 - starting...
+
+2019-10-02 16:13:40,522 INFO Selenium Keywords [main] Found element: [[[ChromeDriver: chrome on XP (a02c062c875962d24c964954defc47f6)] -> xpath: //input[@id='nameField']]]
+2019-10-02 16:13:41,068 INFO Selenium Keywords [main] Found element: [[[ChromeDriver: chrome on XP (a02c062c875962d24c964954defc47f6)] -> xpath: //input[@id='passwordField']]]
+2019-10-02 16:13:41,317 INFO Selenium Keywords [main] Found element: [[[ChromeDriver: chrome on XP (a02c062c875962d24c964954defc47f6)] -> xpath: //input[@name='logOnButton']]]
+2019-10-02 16:13:41,680 INFO Browsers_Chrome_001 [main] tearDown starting...
+
+2019-10-02 16:13:42,057 INFO Browsers_Chrome_001 [main] tearDown completed...
+
+2019-10-02 17:58:35,785 INFO Browsers_Chrome_001 [Test worker] beforetest Browsers_Chrome_001 starting...
+
+2019-10-02 17:58:35,815 INFO Driver Managerment [Test worker] createWebDriverChrome - starting...
+
+2019-10-02 17:59:09,439 INFO Driver Managerment [Test worker] createWebDriverChrome - completed...
+
+2019-10-02 17:59:09,440 INFO Browsers_Chrome_001 [Test worker] beforetest Browsers_Chrome_001 completed...
+
+2019-10-02 17:59:09,440 INFO Browsers_Chrome_001 [Test worker] Browsers_Chrome_001 - starting...
+
+2019-10-02 17:59:14,413 INFO Selenium Keywords [Test worker] No matched element- Waiting: 1
+2019-10-02 17:59:15,467 INFO Selenium Keywords [Test worker] No matched element- Waiting: 2
+2019-10-02 17:59:16,529 INFO Selenium Keywords [Test worker] No matched element- Waiting: 3
+2019-10-02 17:59:17,585 INFO Selenium Keywords [Test worker] No matched element- Waiting: 4
+2019-10-02 17:59:18,629 INFO Selenium Keywords [Test worker] No matched element- Waiting: 5
+2019-10-02 17:59:19,673 INFO Selenium Keywords [Test worker] No matched element- Waiting: 6
+2019-10-02 17:59:20,722 INFO Selenium Keywords [Test worker] No matched element- Waiting: 7
+2019-10-02 17:59:21,767 INFO Selenium Keywords [Test worker] No matched element- Waiting: 8
+2019-10-02 17:59:22,835 INFO Selenium Keywords [Test worker] No matched element- Waiting: 9
+2019-10-02 17:59:23,895 INFO Selenium Keywords [Test worker] No matched element- Waiting: 10
+2019-10-02 17:59:24,957 INFO Selenium Keywords [Test worker] No matched element- Waiting: 11
+2019-10-02 17:59:25,999 INFO Selenium Keywords [Test worker] No matched element- Waiting: 12
+2019-10-02 17:59:27,044 INFO Selenium Keywords [Test worker] No matched element- Waiting: 13
+2019-10-02 17:59:28,104 INFO Selenium Keywords [Test worker] No matched element- Waiting: 14
+2019-10-02 17:59:29,169 INFO Selenium Keywords [Test worker] No matched element- Waiting: 15
+2019-10-02 17:59:30,230 INFO Selenium Keywords [Test worker] No matched element- Waiting: 16
+2019-10-02 17:59:31,301 INFO Selenium Keywords [Test worker] No matched element- Waiting: 17
+2019-10-02 17:59:32,342 INFO Selenium Keywords [Test worker] No matched element- Waiting: 18
+2019-10-02 17:59:33,411 INFO Selenium Keywords [Test worker] No matched element- Waiting: 19
+2019-10-02 17:59:34,451 INFO Selenium Keywords [Test worker] No matched element- Waiting: 20
+2019-10-02 17:59:35,515 INFO Selenium Keywords [Test worker] No matched element- Waiting: 21
+2019-10-02 17:59:36,565 INFO Selenium Keywords [Test worker] No matched element- Waiting: 22
+2019-10-02 17:59:43,793 INFO Browsers_Chrome_001 [Test worker] tearDown starting...
+
+2019-10-02 17:59:44,396 INFO Browsers_Chrome_001 [Test worker] tearDown completed...
+
+2019-10-02 17:59:45,660 INFO Browsers_001_Firefox [Test worker] beforetest Browsers_001_Firefox starting...
+
+2019-10-02 18:02:26,020 INFO Browsers_Chrome_001 [Test worker] beforetest Browsers_Chrome_001 starting...
+
+2019-10-02 18:02:26,027 INFO Driver Managerment [Test worker] createWebDriverChrome - starting...
+
+2019-10-02 18:03:06,313 INFO Driver Managerment [Test worker] createWebDriverChrome - completed...
+
+2019-10-02 18:03:06,313 INFO Browsers_Chrome_001 [Test worker] beforetest Browsers_Chrome_001 completed...
+
+2019-10-02 18:03:06,313 INFO Browsers_Chrome_001 [Test worker] Browsers_Chrome_001 - starting...
+
+2019-10-02 18:03:15,329 INFO Selenium Keywords [Test worker] No matched element- Waiting: 1
+2019-10-02 18:03:16,399 INFO Selenium Keywords [Test worker] No matched element- Waiting: 2
+2019-10-02 18:03:17,456 INFO Selenium Keywords [Test worker] No matched element- Waiting: 3
+2019-10-02 18:03:18,523 INFO Selenium Keywords [Test worker] No matched element- Waiting: 4
+2019-10-02 18:03:19,582 INFO Selenium Keywords [Test worker] No matched element- Waiting: 5
+2019-10-02 18:03:20,638 INFO Selenium Keywords [Test worker] No matched element- Waiting: 6
+2019-10-02 18:03:21,702 INFO Selenium Keywords [Test worker] No matched element- Waiting: 7
+2019-10-02 18:03:22,754 INFO Selenium Keywords [Test worker] No matched element- Waiting: 8
+2019-10-02 18:03:23,799 INFO Selenium Keywords [Test worker] No matched element- Waiting: 9
+2019-10-02 18:03:24,861 INFO Selenium Keywords [Test worker] No matched element- Waiting: 10
+2019-10-02 18:03:25,917 INFO Selenium Keywords [Test worker] No matched element- Waiting: 11
+2019-10-02 18:03:26,964 INFO Selenium Keywords [Test worker] No matched element- Waiting: 12
+2019-10-02 18:03:28,032 INFO Selenium Keywords [Test worker] No matched element- Waiting: 13
+2019-10-02 18:03:29,087 INFO Selenium Keywords [Test worker] No matched element- Waiting: 14
+2019-10-02 18:03:30,145 INFO Selenium Keywords [Test worker] No matched element- Waiting: 15
+2019-10-02 18:03:31,314 INFO Selenium Keywords [Test worker] No matched element- Waiting: 16
+2019-10-02 18:03:32,364 INFO Selenium Keywords [Test worker] No matched element- Waiting: 17
+2019-10-02 18:03:33,404 INFO Selenium Keywords [Test worker] No matched element- Waiting: 18
+2019-10-02 18:03:34,464 INFO Selenium Keywords [Test worker] No matched element- Waiting: 19
+2019-10-02 18:03:35,508 INFO Selenium Keywords [Test worker] No matched element- Waiting: 20
+2019-10-02 18:03:36,553 INFO Selenium Keywords [Test worker] No matched element- Waiting: 21
+2019-10-02 18:03:37,602 INFO Selenium Keywords [Test worker] No matched element- Waiting: 22
+2019-10-02 18:03:38,654 INFO Selenium Keywords [Test worker] No matched element- Waiting: 23
+2019-10-02 18:03:39,721 INFO Selenium Keywords [Test worker] No matched element- Waiting: 24
+2019-10-02 18:03:40,775 INFO Selenium Keywords [Test worker] No matched element- Waiting: 25
+2019-10-02 18:03:41,822 INFO Selenium Keywords [Test worker] No matched element- Waiting: 26
+2019-10-02 18:03:42,864 INFO Selenium Keywords [Test worker] No matched element- Waiting: 27
+2019-10-02 18:03:43,931 INFO Selenium Keywords [Test worker] No matched element- Waiting: 28
+2019-10-02 18:03:44,992 INFO Selenium Keywords [Test worker] No matched element- Waiting: 29
+2019-10-02 18:03:46,050 INFO Selenium Keywords [Test worker] No matched element- Waiting: 30
+2019-10-02 18:03:47,107 INFO Selenium Keywords [Test worker] No matched element- Waiting: 31
+2019-10-02 18:03:48,353 INFO Browsers_Chrome_001 [Test worker] tearDown starting...
+
+2019-10-02 18:03:49,495 INFO Browsers_Chrome_001 [Test worker] tearDown completed...
+
+2019-10-02 18:25:09,076 INFO Browsers_Chrome_001 [Test worker] beforetest Browsers_Chrome_001 starting...
+
+2019-10-02 18:25:09,107 INFO Driver Managerment [Test worker] createWebDriverChrome - starting...
+
+2019-10-02 18:25:40,600 INFO Driver Managerment [Test worker] createWebDriverChrome - completed...
+
+2019-10-02 18:25:40,601 INFO Browsers_Chrome_001 [Test worker] beforetest Browsers_Chrome_001 completed...
+
+2019-10-02 18:25:40,601 INFO Browsers_Chrome_001 [Test worker] Browsers_Chrome_001 - starting...
+
+2019-10-02 18:25:45,837 INFO Selenium Keywords [Test worker] No matched element- Waiting: 1
+2019-10-02 18:25:46,897 INFO Selenium Keywords [Test worker] No matched element- Waiting: 2
+2019-10-02 18:25:47,972 INFO Selenium Keywords [Test worker] No matched element- Waiting: 3
+2019-10-02 18:25:49,028 INFO Selenium Keywords [Test worker] No matched element- Waiting: 4
+2019-10-02 18:25:50,076 INFO Selenium Keywords [Test worker] No matched element- Waiting: 5
+2019-10-02 18:25:51,140 INFO Selenium Keywords [Test worker] No matched element- Waiting: 6
+2019-10-02 18:25:52,188 INFO Selenium Keywords [Test worker] No matched element- Waiting: 7
+2019-10-02 18:25:53,254 INFO Selenium Keywords [Test worker] No matched element- Waiting: 8
+2019-10-02 18:25:54,303 INFO Selenium Keywords [Test worker] No matched element- Waiting: 9
+2019-10-02 18:25:55,366 INFO Selenium Keywords [Test worker] No matched element- Waiting: 10
+2019-10-02 18:25:56,408 INFO Selenium Keywords [Test worker] No matched element- Waiting: 11
+2019-10-02 18:25:57,469 INFO Selenium Keywords [Test worker] No matched element- Waiting: 12
+2019-10-02 18:25:58,526 INFO Selenium Keywords [Test worker] No matched element- Waiting: 13
+2019-10-02 18:25:59,570 INFO Selenium Keywords [Test worker] No matched element- Waiting: 14
+2019-10-02 18:26:00,625 INFO Selenium Keywords [Test worker] No matched element- Waiting: 15
+2019-10-02 18:26:01,692 INFO Selenium Keywords [Test worker] No matched element- Waiting: 16
+2019-10-02 18:26:02,754 INFO Selenium Keywords [Test worker] No matched element- Waiting: 17
+2019-10-02 18:26:03,802 INFO Selenium Keywords [Test worker] No matched element- Waiting: 18
+2019-10-02 18:26:04,859 INFO Selenium Keywords [Test worker] No matched element- Waiting: 19
+2019-10-02 18:26:05,916 INFO Selenium Keywords [Test worker] No matched element- Waiting: 20
+2019-10-02 18:26:06,990 INFO Selenium Keywords [Test worker] No matched element- Waiting: 21
+2019-10-02 18:26:08,053 INFO Selenium Keywords [Test worker] No matched element- Waiting: 22
+2019-10-02 18:26:09,126 INFO Selenium Keywords [Test worker] No matched element- Waiting: 23
+2019-10-02 18:26:10,196 INFO Selenium Keywords [Test worker] No matched element- Waiting: 24
+2019-10-02 18:26:11,251 INFO Selenium Keywords [Test worker] No matched element- Waiting: 25
+2019-10-02 18:26:12,314 INFO Selenium Keywords [Test worker] No matched element- Waiting: 26
+2019-10-02 18:26:13,383 INFO Selenium Keywords [Test worker] No matched element- Waiting: 27
+2019-10-02 18:26:14,456 INFO Selenium Keywords [Test worker] No matched element- Waiting: 28
+2019-10-02 18:26:15,545 INFO Selenium Keywords [Test worker] No matched element- Waiting: 29
+2019-10-02 18:26:16,609 INFO Selenium Keywords [Test worker] No matched element- Waiting: 30
+2019-10-02 18:26:17,658 INFO Selenium Keywords [Test worker] No matched element- Waiting: 31
+2019-10-02 18:26:18,868 INFO Browsers_Chrome_001 [Test worker] tearDown starting...
+
+2019-10-02 18:26:20,256 INFO Browsers_Chrome_001 [Test worker] tearDown completed...
+
